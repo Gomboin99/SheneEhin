@@ -312,7 +312,8 @@ body, html{
 }
 .video{
   
-  width: 70%;
-  
+  width: 65%;
+  /* height: 630px; */
+  object-fit: contain;
   position:relative;
 }
