@@ -310,3 +310,9 @@ body, html{
   background-repeat: repeat;
   background-size: cover; 
 }
+.video{
+  
+  width: 70%;
+  
+  position:relative;
+}
